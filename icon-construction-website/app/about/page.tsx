@@ -12,12 +12,12 @@ export default function AboutPage() {
     <div className="min-h-screen bg-white">
       <LayoutHeader onDownloadPortfolio={handleDownloadPortfolio} />
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-        <h1 className="text-3xl font-bold text-black mb-8 text-center">About I-Con Ltd</h1>
+        <h1 className="text-3xl font-bold text-black mb-8 text-center">About INTIMATE CONTRACTORS LTD (I-Con Ltd)</h1>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
           <div>
             <p className="text-gray-600 mb-6">
-              Established in 2013 with the express aim of alleviating poverty and creating opportunities, 
-              INTIMATE CONTRACTORS Ltd (I-Con Ltd) embodies the essence of pro-active owner-manager culture in Rwanda.
+              INTIMATE CONTRACTORS LTD (I-Con Ltd) was established in 2013 with the express aim of alleviating poverty and creating opportunities, 
+              embodying the essence of pro-active owner-manager culture in Rwanda.
             </p>
             <div className="space-y-6">
               <div>

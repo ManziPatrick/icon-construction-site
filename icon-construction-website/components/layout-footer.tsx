@@ -12,7 +12,7 @@ export default function LayoutFooter({ onDownloadPortfolio }) {
           <div>
             <div className="flex items-center mb-4">
               <Image src="/images/icon-logo.png" alt="I-Con Ltd Logo" width={50} height={33} className="mr-3" />
-              <span className="text-xl font-bold">I-Con Ltd</span>
+              <span className="text-xl font-bold">INTIMATE CONTRACTORS LTD (I-Con Ltd)</span>
             </div>
             <p className="text-gray-400 mb-4">Building Rwanda's future with excellence since 2013.</p>
             <div className="flex gap-2">
